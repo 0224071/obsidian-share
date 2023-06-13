@@ -1,5 +1,5 @@
-site_name: obsidian-share # Change this to your site name
-site_description: peter's note.
+site_name: Peter's note # Change this to your site name
+site_description: Peter's note with obsidian.
 site_url: https://github_0224071.io/obsidian-share # Change this to your site URL
 
 theme:
